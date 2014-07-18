@@ -20,4 +20,4 @@ Open source python script that will generate random keys for xbox live and check
 
 ---
 
-**Please use the issue reporting feature on GitHub to report any problems.
+**Please use the issue reporting feature on GitHub to report any problems.**
